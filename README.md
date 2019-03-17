@@ -1,4 +1,3 @@
-# Codeigniter 3 Tutorial - Simple Authentication and Authorization
+# Codeigniter 3 Authentication and Authorization
 
-This is final code for tutorial **Codeigniter 3 Tutorial - Simple Authentication and Authorization**
 
